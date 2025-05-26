@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudranil</h1>
-<h3 align="center">A passionate developer from India </h3>
+<h3 align="center">A passionate student developer from India </h3>
 
 <!-- 🔭 I’m currently working on **Smart WASTE segregation  & Tourism boos INDIA**-->
 - 🌱 I’m currently learning **Machine Learning,WEB3 & Blockchain**
@@ -36,5 +36,5 @@
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudranil5)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Anihilin)
+[![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Anihilin)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Rudranil_telegrambot)
