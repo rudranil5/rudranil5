@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudranil</h1>
-<h3 align="center">A passionate developer from [Your Country]</h3>
+<h3 align="center">A passionate developer from India </h3>
 
 - 🔭 I’m currently working on **Smart WASTE segregation  & Tourism boos INDIA**
 - 🌱 I’m currently learning **Machine Learning,WEB3 & Blockchain**
