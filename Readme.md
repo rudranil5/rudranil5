@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a7ff12&center=true&vCenter=true&width=445&lines=Hi+%F0%9F%91%8B%2C+I'm+Rudranil" alt="I am Rudranil " />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a7f112&center=true&vCenter=true&width=445&lines=Hi+%F0%9F%91%8B%2C+I'm+Rudranil" alt="I am Rudranil " />
 </h1>
 <h3 align="center">A passionate student developer from India </h3>
 
