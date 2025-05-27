@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65a812&center=true&vCenter=true&width=445&lines=Hi+%F0%9F%91%8B%2C+I'm+Rudranil" alt="I am Rudranil " />
 </h1>
-<h3 align="center">A passionate student developer from India </h3>
+<h3 align="center">A passionate student developer </h3>
 
 <!-- 🔭 I’m currently working on **Smart WASTE segregation  & Tourism boos INDIA**-->
 - 🌱 I’m currently learning **Machine Learning,WEB3 & Blockchain**
