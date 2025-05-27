@@ -16,11 +16,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/-Python-EAC543?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-ffffff?style=for-the-badge&logo=sql&logoColor=black"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/- -ff1111?style=for-the-badge&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MYSQL-fcfcfc?style=for-the-badge&logo=mysql&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/-MYSQL-fafafa?style=for-the-badge&logo=mysql&logoColor=000000"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   
 </p>
