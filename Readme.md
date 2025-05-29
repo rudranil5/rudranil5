@@ -39,5 +39,5 @@
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudranil5)
-[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=black)](https://twitter.com/Anihilin)
+[![Twitter](https://img.shields.io/badge/-X/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=black)](https://twitter.com/Anihilin)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Rudranil_telegrambot)
