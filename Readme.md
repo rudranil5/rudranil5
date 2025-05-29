@@ -38,6 +38,14 @@
 -->
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudranil5)
-[![Twitter](https://img.shields.io/badge/-X/twitter-9DA1F2?style=flat-square&logo=twitter&logoColor=black)](https://twitter.com/Anihilin)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Rudranil_telegrambot)
+<p align="center">
+  <a href="https://linkedin.com/in/rudranil5" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="height:45px; margin: 0 10px;"/>
+  </a>
+  <a href="https://twitter.com/Anihilin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" alt="X (Twitter)" style="height:45px; margin: 0 10px;"/>
+  </a>
+  <a href="https://t.me/Rudranil_telegrambot" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" style="height:45px; margin: 0 10px;"/>
+  </a>
+</p>
