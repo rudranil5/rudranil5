@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Machine Learning,WEB3 & Blockchain**
 <!-- 👯 I’m looking to collaborate on **[Open source, projects, etc.]**-->
 - 🤝 I’m looking for help with **[Project BIcycle,]**
-- 
+  
 - 💬 Ask me about **[PYTHON,Machine Learning,Cybersecurity basics]**
 <!--- ⚡ Fun fact: **[]**-->
 
