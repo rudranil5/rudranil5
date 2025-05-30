@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rudranil5" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1920px-LinkedIn_2021.svg.png" alt="LinkedIn" style="height:45px; margin: 0 10px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1920px-LinkedIn_2021.svg.png" alt="LinkedIn" style="height:45px; margin: 0 10px;padding:10 ;"/>
   </a>
   <a href="https://twitter.com/Anihilin" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/x-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" alt="X (Twitter)" style="height:45px; margin: 0 10px;"/>
