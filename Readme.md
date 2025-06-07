@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" style="height:35px; margin: 0 8px;"/>
   </a>
   
-  <a href="https://twitter.com/Anihilin" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/Camerapid" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/x-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" alt="X (Twitter)" style="height:35px; margin: 0 10px;"/>
   </a>
 <br>
