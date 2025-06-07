@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rudranil5" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1920px-LinkedIn_2021.svg.png" alt="LinkedIn" style="height:15%; margin: 0 10px;padding:10 ;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1920px-LinkedIn_2021.svg.png" alt="LinkedIn" style="height:5%; margin: 0 10px;padding:10 ;"/>
   </a>
   
   <a href="https://t.me/Rudranil_telegrambot" target="_blank" rel="noopener noreferrer">
