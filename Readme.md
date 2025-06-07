@@ -51,13 +51,13 @@
     <img src="https://img.shields.io/badge/x-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" alt="X (Twitter)" style="height:35px; margin: 0 10px;"/>
   </a>
 <br>
+
+  <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
+    <img src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" alt="HackerRank Logo" style="height:28px;">
+  </a>
   
   <a href="https://bn.quora.com/camerapid" target="_blank" rel="noopener">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" alt="Quora Logo" style="height:30px;">
-  </a>
-
-   <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
-    <img src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" alt="HackerRank Logo" style="height:28px;">
   </a>
 
 </p>
