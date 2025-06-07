@@ -40,7 +40,7 @@
 
 <p align="center">
    <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank Logo" style="height:50px; margin-right:30px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank Logo" style="height:50px; margin:30px">
   </a>
  
   <a href="https://linkedin.com/in/rudranil5" target="_blank" rel="noopener noreferrer">
