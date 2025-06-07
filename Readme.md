@@ -39,13 +39,14 @@
 ### 🌐 Platforms
 
 <p align="center">
+   <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank Logo" style="height:50px;">
+  </a>
+  
   <a href="https://linkedin.com/in/rudranil5" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1920px-LinkedIn_2021.svg.png" alt="LinkedIn" style="height:45px; margin: 0 10px;padding:10 ;"/>
   </a>
   
-  <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank Logo" style="height:50px;">
-  </a>
   <a href="https://t.me/Rudranil_telegrambot" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" style="height:45px; margin: 0 8px;"/>
   </a>
