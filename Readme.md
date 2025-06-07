@@ -36,7 +36,7 @@
 
 ---
 -->
-### 🌐 Platforms
+### 🌐 Platforms & Socials
 
 <p align="center">
    <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
