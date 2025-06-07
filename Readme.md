@@ -44,7 +44,7 @@
   </a>
 
   <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
-  <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank Logo" style="height:40px;"/>
+  <img src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" alt="HackerRank Logo" style="height:40px;"/>
   </a>
   
   <a href="https://t.me/Rudranil_telegrambot" target="_blank" rel="noopener noreferrer">
