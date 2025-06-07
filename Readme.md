@@ -36,7 +36,7 @@
 
 ---
 -->
-### 🌐 Connect with me
+### 🌐 Platforms
 
 <p align="center">
   <a href="https://linkedin.com/in/rudranil5" target="_blank" rel="noopener noreferrer">
@@ -50,5 +50,8 @@
   </a>
   <a href="https://bn.quora.com/camerapid" target="_blank" rel="noopener">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" alt="Quora Logo" style="height:40px;">
+  <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" style="height:40px;">
+</a>
 </a>
 </p>
