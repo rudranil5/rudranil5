@@ -43,19 +43,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1920px-LinkedIn_2021.svg.png" alt="LinkedIn" style="height:45px; margin: 0 10px;padding:10 ;"/>
   </a>
   
-  <a href="https://twitter.com/Anihilin" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/x-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" alt="X (Twitter)" style="height:45px; margin: 0 10px;"/>
-  </a>
-  
   <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank Logo" style="height:40px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank Logo" style="height:50px;">
   </a>
   <a href="https://t.me/Rudranil_telegrambot" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" style="height:45px; margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" style="height:45px; margin: 0 8px;"/>
   </a>
     
   <a href="https://bn.quora.com/camerapid" target="_blank" rel="noopener">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" alt="Quora Logo" style="height:40px;">
+  </a>
+
+   <a href="https://twitter.com/Anihilin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/x-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" alt="X (Twitter)" style="height:45px; margin: 0 10px;"/>
   </a>
 
 </p>
