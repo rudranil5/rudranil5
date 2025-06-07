@@ -41,8 +41,12 @@
 <p align="center">
    <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank Logo" style="height:50px;">
+  <>
   </a>
-  
+  <a href="https://camerapid.com" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; text-decoration: none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" style="height:32px; margin-right:8px;">
+  <span style="font-size: 1.2em; font-weight: bold; color: #2EC866; font-family: Arial, sans-serif;">Hackerrank</span>
+</a>
   <a href="https://linkedin.com/in/rudranil5" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1920px-LinkedIn_2021.svg.png" alt="LinkedIn" style="height:45px; margin: 0 10px;padding:10 ;"/>
   </a>
