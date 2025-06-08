@@ -62,11 +62,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" alt="Quora" style="height:33px;">
   </a>
   <br>
-
+  
+<!--
    <a href="https://exercism.org/profiles/rudranil5" target="_blank" rel="noopener">
     <img src="https://assets.exercism.org/assets/icons/exercism-with-logo-black-12752bd7fcf6862ba8ad7a2b75e21a9b2409d7fd.svg" alt="exercism" style="height:33px;">
   </a>
-
+-->
   
 
 </p>
