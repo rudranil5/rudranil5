@@ -17,11 +17,12 @@
 
 <p>
   <img src="https://assets.exercism.org/tracks/python.svg"/>
+  <img src="https://assets.exercism.org/tracks/c.svg"/>
+  <img src="https://assets.exercism.org/tracks/cpp.svg"/>
+  <br>
+  <img src="https://img.shields.io/badge/-MYSQL-fafafa?style=for-the-badge&logo=mysql&logoColor=000000"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://assets.exercism.org/tracks/c.svg"/>
-  <img src="https://img.shields.io/badge/-MYSQL-fafafa?style=for-the-badge&logo=mysql&logoColor=000000"/>
-  <img src="https://assets.exercism.org/tracks/cpp.svg"/>
   
 </p>
 
