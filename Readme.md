@@ -16,9 +16,9 @@
 ### 🛠️ Languages:
 
 <p>
-  <img src="https://assets.exercism.org/tracks/python.svg"/>
-  <img src="https://assets.exercism.org/tracks/c.svg"/>
-  <img src="https://assets.exercism.org/tracks/cpp.svg"/>
+  <img src="https://assets.exercism.org/tracks/python.svg" style="height:35px;"/>
+  <img src="https://assets.exercism.org/tracks/c.svg" style="height:35px";/>
+  <img src="https://assets.exercism.org/tracks/cpp.svg" style="height:35px;"/>
   <br>
   <img src="https://img.shields.io/badge/-MYSQL-fafafa?style=for-the-badge&logo=mysql&logoColor=000000"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
