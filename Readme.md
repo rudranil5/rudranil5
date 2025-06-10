@@ -55,11 +55,11 @@
 <br>
 
   <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
-    <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" alt="HackerRank" style="height:25px; background-color: white;">
+    <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" alt="HackerRank" style="height:35px; background-color: white;">
   </a>
   
   <a href="https://bn.quora.com/camerapid" target="_blank" rel="noopener">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" alt="Quora" style="height:33px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" alt="Quora" style="height:35px;">
   </a>
   <br>
   
