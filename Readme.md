@@ -20,7 +20,7 @@
   <img src="https://assets.exercism.org/tracks/c.svg" style="height:50px";/>
   <img src="https://assets.exercism.org/tracks/cpp.svg" style="height:50px;"/>
   <br>
-  <img src="https://codigofacil.com.br/wp-content/uploads/2025/03/mysql-imagem.jpg" style="height:45px"/>
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="height:45px"/>
   <img src ="https://assets.exercism.org/tracks/objective-c.svg" style="height:45px";/>
   <img src="https://www.futurewayinstitute.com/assets/images/category/category-04/html-css.png" style = "height:70px ; "/>
   
