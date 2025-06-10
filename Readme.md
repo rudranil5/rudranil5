@@ -63,7 +63,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" alt="Quora" style="height:35px;">
   </a>
   <br>
-  <img loading="lazy" height="16" alt="" src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" class="js-logoimg pagenav-logo-dark">
+  <img loading="lazy" height="16" alt="" src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" class="js-logoimg pagenav-logo-light">
   
 <!--
    <a href="https://exercism.org/profiles/rudranil5" target="_blank" rel="noopener">
