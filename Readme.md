@@ -55,7 +55,7 @@
 <br>
 
   <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
-    <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" alt="HackerRank" style="height:35px; background-color: white;">
+    <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" alt="HackerRank" style="height:42px; background-color: white;">
   </a>
   
   <a href="https://bn.quora.com/camerapid" target="_blank" rel="noopener">
