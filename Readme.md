@@ -22,8 +22,8 @@
   <br>
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="height:45px"/>
   <img src ="https://assets.exercism.org/tracks/objective-c.svg" style="height:45px";/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1920px-HTML5_logo_and_wordmark.svg.png" style = "height:45px ; "/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAc4BswrDj_q0JcxkRYJ09NDHtv5GEfzOzQ&s" style = "height:45px ; "/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" style = "height:45px ; "/>
+  <img src="https://icon2.cleanpng.com/20180510/biw/kisspng-html-css-design-and-build-web-sites-web-develop-5af50c33acf486.1786193415260088837084.jpg" style = "height:45px ; "/>
   
   
 </p>
