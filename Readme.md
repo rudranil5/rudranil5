@@ -20,9 +20,9 @@
   <img src="https://assets.exercism.org/tracks/c.svg" style="height:50px";/>
   <img src="https://assets.exercism.org/tracks/cpp.svg" style="height:50px;"/>
   <br>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjNP4W9XMAfHwtd_Kwa3_JTbvuLU8tbfeZdQxzyyMsjsfLaoBtGk1hkegNs3kZsTC3oRwSsKGtUNaoLwMDDLeOQeVrurAeAihjTtXcfw" style="height:45px"/>
+  <img src="https://www.stickersdevs.com.br/wp-content/uploads/2015/07/mysql_sticker-adesivo-1-800x800.png" style="height:45px"/>
   <img src ="https://assets.exercism.org/tracks/objective-c.svg" style="height:45px";/>
-  <img src="https://www.futurewayinstitute.com/assets/images/category/category-04/html-css.png" style = "height:70px"/>
+  <img src="https://www.futurewayinstitute.com/assets/images/category/category-04/html-css.png" style = "height:70px ; background-color : white;"/>
   
   
 </p>
@@ -55,7 +55,7 @@
 <br>
 
   <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
-    <img src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" alt="HackerRank" style="height:25px;">
+    <img src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" alt="HackerRank" style="height:25px; background-color: white;">
   </a>
   
   <a href="https://bn.quora.com/camerapid" target="_blank" rel="noopener">
