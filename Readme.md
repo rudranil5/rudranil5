@@ -20,9 +20,9 @@
   <img src="https://assets.exercism.org/tracks/c.svg" style="height:50px";/>
   <img src="https://assets.exercism.org/tracks/cpp.svg" style="height:50px;"/>
   <br>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjNP4W9XMAfHwtd_Kwa3_JTbvuLU8tbfeZdQxzyyMsjsfLaoBtGk1hkegNs3kZsTC3oRwSsKGtUNaoLwMDDLeOQeVrurAeAihjTtXcfw" style="height:45px"/>
   <img src ="https://assets.exercism.org/tracks/objective-c.svg" style="height:45px";/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjNP4W9XMAfHwtd_Kwa3_JTbvuLU8tbfeZdQxzyyMsjsfLaoBtGk1hkegNs3kZsTC3oRwSsKGtUNaoLwMDDLeOQeVrurAeAihjTtXcfw" style="height:50px"/>
-  <img src="https://www.futurewayinstitute.com/assets/images/category/category-04/html-css.png" style = "height:50px"/>
+  <img src="https://www.futurewayinstitute.com/assets/images/category/category-04/html-css.png" style = "height:60px"/>
   
   
 </p>
