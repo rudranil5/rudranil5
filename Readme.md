@@ -22,7 +22,8 @@
   <br>
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="height:45px"/>
   <img src ="https://assets.exercism.org/tracks/objective-c.svg" style="height:45px";/>
-  <img src="https://www.futurewayinstitute.com/assets/images/category/category-04/html-css.png" style = "height:70px ; "/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" style = "height:70px ; "/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAc4BswrDj_q0JcxkRYJ09NDHtv5GEfzOzQ&s" style = "height:70px ; "/>
   
   
 </p>
