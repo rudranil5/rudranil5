@@ -21,9 +21,9 @@
   <img src="https://assets.exercism.org/tracks/cpp.svg" style="height:50px;"/>
   <br>
   <img src ="https://assets.exercism.org/tracks/objective-c.svg" style="height:45px";/>
-  <img src="https://img.shields.io/badge/-MYSQL-fafafa?style=for-the-badge&logo=mysql&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjNP4W9XMAfHwtd_Kwa3_JTbvuLU8tbfeZdQxzyyMsjsfLaoBtGk1hkegNs3kZsTC3oRwSsKGtUNaoLwMDDLeOQeVrurAeAihjTtXcfw"/>
+  <img src="https://www.futurewayinstitute.com/assets/images/category/category-04/html-css.png"/>
+  
   
 </p>
 
