@@ -39,7 +39,7 @@
 
 ---
 -->
-<div background-color:#eeeeee>
+<div style="background-color:#eeeeee;">
   ### 🌐 Platforms & Socials
 
   <p align="center">
