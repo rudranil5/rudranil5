@@ -39,7 +39,7 @@
 
 ---
 -->
-<div style="background-color:#eeeeee;">
+
   ### 🌐 Platforms & Socials
 
   <p align="center">
@@ -74,4 +74,4 @@
   
 
   </p>
-</div>
+
