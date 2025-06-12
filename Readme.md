@@ -42,27 +42,27 @@
 
   ### 🌐 Platforms & Socials
 
-  <p align="center">
-    <a href="https://linkedin.com/in/rudranil5" target="_blank" rel="noopener noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1920px-LinkedIn_2021.svg.png" alt="LinkedIn" style="height:35px; margin: 0 10px;padding:10 ;"/>
-    </a>
+<p align="center">
+  <a href="https://linkedin.com/in/rudranil5" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1920px-LinkedIn_2021.svg.png" alt="LinkedIn" style="height:35px; margin: 0 10px;padding:10 ;"/>
+  </a>
   
-    <a href="https://t.me/Rudranil_telegrambot" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" style="height:35px; margin: 0 8px;"/>
-    </a>
+  <a href="https://t.me/Rudranil_telegrambot" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" style="height:35px; margin: 0 8px;"/>
+  </a>
   
-    <a href="https://twitter.com/Camerapid" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/x-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" alt="X (Twitter)" style="height:35px; margin: 0 10px;"/>
-    </a>
+  <a href="https://twitter.com/Camerapid" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/x-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" alt="X (Twitter)" style="height:35px; margin: 0 10px;"/>
+  </a>
 <br>
 
-    <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
-      <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" alt="HackerRank" style="height:42px; background-color: white;">
-    </a>
+  <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
+  <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" alt="HackerRank" style="height:42px; background-color: white;">
+  </a>
   
-    <a href="https://bn.quora.com/camerapid" target="_blank" rel="noopener">
+  <a href="https://bn.quora.com/camerapid" target="_blank" rel="noopener">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" alt="Quora" style="height:35px;">
-    </a>
+  </a>
   <br>
     <img loading="lazy" height="16" alt="" src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" class="js-logoimg pagenav-logo-dark">
   
