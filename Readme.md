@@ -57,7 +57,7 @@
 <br>
 
   <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
-  <img src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" alt ="Hackerrank" style="height:35px">
+  <img src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" alt ="Hackerrank" style="height:31px">
   </a>
   
   <a href="https://bn.quora.com/camerapid" target="_blank" rel="noopener">
