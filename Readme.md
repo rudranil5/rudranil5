@@ -19,6 +19,8 @@
   <img src="https://assets.exercism.org/tracks/python.svg" style="height:50px;"/>
   <img src="https://assets.exercism.org/tracks/c.svg" style="height:50px";/>
   <img src="https://assets.exercism.org/tracks/cpp.svg" style="height:50px;"/>
+  <img src="https://assets.exercism.org/tracks/java.svg" style="height:50px;"/>
+
   <br>
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="height:45px"/>
   <img src ="https://assets.exercism.org/tracks/objective-c.svg" style="height:45px";/>
