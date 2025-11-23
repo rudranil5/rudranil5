@@ -15,7 +15,7 @@
 </p>
 
 <blockquote align="center">
-  <p><strong>⚡ Fun fact:</strong> Linux distracts me the most during exams — when the urge to tinker hits, I often can't focus on studying until I fix whatever caught my attention. 😅</p>
+  <p><strong>⚡ Fun fact:</strong> Linux attracts me the most during exams — The urge to tinker hits , I often Mess up something . And I can't focus on studying until I fix it (Even upgrade). 😅</p>
 </blockquote>
 
 ---
