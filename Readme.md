@@ -9,7 +9,9 @@
 - 🤝 I’m looking for help with **[Project BIcycle]**
   
 - 💬 Ask me about **[PYTHON,Machine Learning,Cybersecurity basics]**
-- ⚡ Fun fact: **[Linux attracts me most During Exam times . In urge to do something i want... unwanted things happens, and i couldnt focus on study untill I fix it :) ]**-->
+
+  
+-<h5> ⚡ Fun fact: **[Linux attracts me most During Exam times . In urge to do something i want... unwanted things happens, and i couldnt focus on study untill I fix it :) ]**--></h5>
 
 ---
 
