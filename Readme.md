@@ -81,11 +81,12 @@
     <img src="https://assets.exercism.org/assets/icons/exercism-with-logo-black-12752bd7fcf6862ba8ad7a2b75e21a9b2409d7fd.svg" alt="exercism" style="height:33px;">
   </a>
 -->
-  
 
   </p>
+  ---
 
   ### And ...
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png" alt ="Linux" style="height:35px;">
-  <img src="https://en.wikipedia.org/wiki/File:Solidity_logo.svg" alt = "Solidity" style="height:35px;">
-
+  <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png" alt ="Linux" style="height:75px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/500px-Solidity_logo.svg.png" alt = "Solidity" style="height:55px;">
+  </p>
