@@ -10,8 +10,13 @@
   
 - 💬 Ask me about **[PYTHON,Machine Learning,Cybersecurity basics]**
 
-<h4>
-- ⚡ Fun fact: **[Linux attracts me most During Exam times . In urge to do something i want... unwanted things happens, and i couldnt focus on study untill I fix it :) ]**--></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Fun%20Fact-%E2%9A%A1%EF%B8%8F-yellow?style=for-the-badge&logo=linux&logoColor=black" alt="Fun fact" />
+</p>
+
+<blockquote align="center">
+  <p><strong>⚡ Fun fact:</strong> Linux distracts me the most during exams — when the urge to tinker hits, I often can't focus on studying until I fix whatever caught my attention. 😅</p>
+</blockquote>
 
 ---
 
