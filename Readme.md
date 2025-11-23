@@ -9,7 +9,7 @@
 - 🤝 I’m looking for help with **[Project BIcycle]**
   
 - 💬 Ask me about **[PYTHON,Machine Learning,Cybersecurity basics]**
-<!--- ⚡ Fun fact: **[]**-->
+- ⚡ Fun fact: **[Linux attracts me most During Exam times . In urge to do something i want... unwanted things happens, and i couldnt focus on study untill I fix it :) ]**-->
 
 ---
 
@@ -45,9 +45,9 @@
   ### 🌐 Platforms & Socials
 
 <p align="center">
-  <a href="https://linkedin.com/in/rudranil5" target="_blank" rel="noopener noreferrer">
+  <!--<a href="https://linkedin.com/in/rudranil5" target="_blank" rel="noopener noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1920px-LinkedIn_2021.svg.png" alt="LinkedIn" style="height:35px; margin: 0 10px;padding:10 ;"/>
-  </a>
+  </a> -->
   
   <a href="https://t.me/Rudranil_telegrambot" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" style="height:35px; margin: 0 8px;"/>
