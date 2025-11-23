@@ -10,8 +10,8 @@
   
 - 💬 Ask me about **[PYTHON,Machine Learning,Cybersecurity basics]**
 
-  
--<h5> ⚡ Fun fact: **[Linux attracts me most During Exam times . In urge to do something i want... unwanted things happens, and i couldnt focus on study untill I fix it :) ]**--></h5>
+<h4>
+- ⚡ Fun fact: **[Linux attracts me most During Exam times . In urge to do something i want... unwanted things happens, and i couldnt focus on study untill I fix it :) ]**--></h4>
 
 ---
 
