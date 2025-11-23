@@ -83,9 +83,10 @@
 -->
 
   </p>
+  
   ---
 
-  ### And ...
+   ### 🔭And ...
   <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png" alt ="Linux" style="height:75px;">  
   ~                         ~
