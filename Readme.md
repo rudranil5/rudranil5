@@ -85,3 +85,7 @@
 
   </p>
 
+  ### And ...
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png" alt ="Linux" style="height:35px;">
+  <img src="https://en.wikipedia.org/wiki/File:Solidity_logo.svg" alt = "Solidity" style="height:35px;">
+
