@@ -63,6 +63,7 @@
   <a href="https://twitter.com/Camerapid" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/x-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" alt="X (Twitter)" style="height:35px; margin: 0 10px;"/>
   </a>
+  <img src= "https://downloads.intercomcdn.com/i/o/awwxrc0h/812783/3451f9d24ea8449942a5d0d24f9d/b480da01c1632f30837ebf7c732c4932.png" alt="HackTheBox" style="height:35px">
 <br>
 
   <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
@@ -75,7 +76,7 @@
   <br>
     
   <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" alt="HackerRank" style="height:42px; background-color: white;">
- <img src= "https://downloads.intercomcdn.com/i/o/awwxrc0h/812783/3451f9d24ea8449942a5d0d24f9d/b480da01c1632f30837ebf7c732c4932.png" alt="HackTheBox" style="height:35px">
+ 
   
 <!--
    <a href="https://exercism.org/profiles/rudranil5" target="_blank" rel="noopener">
