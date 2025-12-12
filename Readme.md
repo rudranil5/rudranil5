@@ -65,7 +65,7 @@
   </a>
   
 <br>
-  <img src= "https://imgs.search.brave.com/Hi6DZ0uK_c4CyBuG7qmjO7sxK_Y64Yreuw2FOM-nopc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzMxNzQ2MjM0/P3M9MjAwJmFtcDt2/PTQ" alt="HackTheBox" style="height🕡5px">
+  <img src= "https://imgs.search.brave.com/Hi6DZ0uK_c4CyBuG7qmjO7sxK_Y64Yreuw2FOM-nopc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzMxNzQ2MjM0/P3M9MjAwJmFtcDt2/PTQ" alt="HackTheBox" style="height🕡1px">
   <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
   <img src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" alt ="Hackerrank" style="height:31px">
   </a>
