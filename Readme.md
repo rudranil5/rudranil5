@@ -63,7 +63,7 @@
   <a href="https://twitter.com/Camerapid" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/x-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" alt="X (Twitter)" style="height:35px; margin: 0 10px;"/>
   </a>
-  <img src= "https://downloads.intercomcdn.com/i/o/awwxrc0h/812783/3451f9d24ea8449942a5d0d24f9d/b480da01c1632f30837ebf7c732c4932.png" alt="HackTheBox" style="height:35px">
+  <img src= "https://imgs.search.brave.com/Hi6DZ0uK_c4CyBuG7qmjO7sxK_Y64Yreuw2FOM-nopc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzMxNzQ2MjM0/P3M9MjAwJmFtcDt2/PTQ" alt="HackTheBox" style="height:35px">
 <br>
 
   <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
