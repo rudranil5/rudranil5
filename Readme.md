@@ -70,9 +70,9 @@
   <!--img src="" alt ="Hackerrank" style="height:31px" -->
   <picture>
   <!-- Show this when the viewer uses dark theme -->
-  <source srcset="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" style="height:50px" media="(prefers-color-scheme: dark)">
+  <source srcset="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" style="height:60px" media="(prefers-color-scheme: dark)">
   <!-- Fallback (light theme / default) -->
-  <img alt="HackerRank" src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" width="120" />
+  <img alt="HackerRank" src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" width="120" style="height:50px" />
 </picture>
  
   </a>
