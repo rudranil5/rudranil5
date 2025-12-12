@@ -63,9 +63,9 @@
   <a href="https://twitter.com/Camerapid" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/x-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" alt="X (Twitter)" style="height:35px; margin: 0 10px;"/>
   </a>
-  <img src= "https://imgs.search.brave.com/Hi6DZ0uK_c4CyBuG7qmjO7sxK_Y64Yreuw2FOM-nopc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzMxNzQ2MjM0/P3M9MjAwJmFtcDt2/PTQ" alt="HackTheBox" style="height:35px">
+  
 <br>
-
+  <img src= "https://imgs.search.brave.com/Hi6DZ0uK_c4CyBuG7qmjO7sxK_Y64Yreuw2FOM-nopc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hdmF0/YXJzLmdpdGh1YnVz/ZXJjb250ZW50LmNv/bS91LzMxNzQ2MjM0/P3M9MjAwJmFtcDt2/PTQ" alt="HackTheBox" style="height🕡5px">
   <a href="https://www.hackerrank.com/profile/rudranil5" target="_blank" rel="noopener">
   <img src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" alt ="Hackerrank" style="height:31px">
   </a>
