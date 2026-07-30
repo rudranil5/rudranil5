@@ -29,7 +29,7 @@
   <img src="https://assets.exercism.org/tracks/java.svg" style="height:50px;"/>
 
   <br>
-  <!--img src="https://www.flaticon.com/free-icon/java-script_1199124" style="height:55px"/>
+  <!--img src="https://www.flaticon.com/free-icon/java-script_1199124" style="height:55px"/ -->
   <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png?utm_source=wikitech.wikimedia.org&utm_campaign=index&utm_content=original" style="height:45px"/>
   <img src="https://avatars.githubusercontent.com/u/5877084?s=200&v=4" alt='mariadb' style="height:55px"/>
   <img src ="https://assets.exercism.org/tracks/objective-c.svg" style="height:45px";/>
@@ -37,7 +37,7 @@
   <img src="https://imgs.search.brave.com/FtBhWtE5Hgb2LAtPwBLwh-3dOhv_jCe2vTrvx_o8JKE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVjdG9ybG9nby56/b25lL2xvZ29zL3cz/X2Nzcy93M19jc3Mt/b2ZmaWNpYWwuc3Zn" style = "height:45px ; "/>
   <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" style="height:45px";/>
   <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png"style="height:45px";/>
-   <!-- img src="https://cdn-icons-png.flaticon.com/128/919/919825.png"style="height:45px";/>
+   <!-- img src="https://cdn-icons-png.flaticon.com/128/919/919825.png"style="height:45px";/ -->
   
   
 </p>
