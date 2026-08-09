@@ -5,7 +5,9 @@
 
 <!-- 🔭 I’m currently working on **Smart WASTE segregation  & Tourism boost INDIA**-->
 - 🌱 I’m currently learning **Machine Learning , Web3 & Blockchain, Springboot**
--👯 I’m looking to collaborate on **Python Projects,Bash Scripts** <!--[Open source, projects, etc.]**-->
+  
+- 👯 I’m looking to collaborate on **Python Projects,Bash Scripts** <!--[Open source, projects, etc.]**-->
+
 - 🤝 I’m looking for help with **[Project BIcycle]**
   
 - 💬 Ask me about **[PYTHON,Machine Learning,Cybersecurity basics]**
