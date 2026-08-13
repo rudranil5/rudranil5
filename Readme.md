@@ -93,7 +93,7 @@
   
   <br>
     
-  <!--img src="" alt="HackerRank" style="height:42px; background-color: white;" -->
+  <!--img src="" alt="HackerRank" style="height:40px; background-color: white;" -->
  
   
 <!--
