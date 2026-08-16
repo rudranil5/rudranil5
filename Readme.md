@@ -111,4 +111,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png" alt ="Linux" style="height:75px;">  
   ~                         ~
   <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Solidity_Programming_2.jfif" alt = "Solidity" style="height:55px;">
+
+   <img src= " https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" style="height:55px">
   </p>
