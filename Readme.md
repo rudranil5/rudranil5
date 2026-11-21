@@ -44,6 +44,25 @@
   
 </p>
 
+### 📈 GitHub Statistics
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rudranil5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github">
+    <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rudranil5&show_icons=true&theme=default&hide_border=true&include_all_commits=true&rank_icon=github" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rudranil5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+    <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudranil5&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  </picture>
+</p>
+
+<p align="center">
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=rudranil5&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ---
 
 <!--### 📈 GitHub Stats
