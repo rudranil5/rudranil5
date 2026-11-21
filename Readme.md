@@ -108,7 +108,7 @@
 
    ### 🔭And ...
   <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png" alt ="Linux" style="height:75px;">  
+  <img src="https://imgs.search.brave.com/4Zluu1ckEki0S-NlIADykBpvcYSn8yStq9m2jvKV6Yk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8zLzM1L1R1/eC5zdmcvMjUwcHgt/VHV4LnN2Zy5wbmc" alt ="Linux" style="height:75px;">  
   ~                         ~
   <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Solidity_Programming_2.jfif" alt = "Solidity" style="height:55px;">
 ~ ~
