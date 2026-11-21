@@ -79,7 +79,7 @@
   <!-- Show this when the viewer uses dark theme -->
   <source srcset="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?fit=1024%2C219&ssl=1" style="height:50px" media="(prefers-color-scheme: dark)">
   <!-- Fallback (light theme / default) -->
-  <img alt="HackerRank" src="https://cdn.prod.website-files.com/66b6d7fd4d3e9cef94717176/6765dc51a13e31531996cef3_logo-dark.svg" width="130" style="height:40px" />
+  <img alt="HackerRank" src="https://imgs.search.brave.com/wbDmUuxS_T23frUKRTiXbCtULWqieWfjz9NWlZNZbFw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y29va2llbGF3Lm9y/Zy9sb2dvcy8xNTg0/ZjU1MC0wOGMwLTRi/YWQtOTZjNy1kZWZk/ZjRlYzAxYWYvMDE5/NTA1NjItMTgwZC03/YzNmLWIxZjQtOTUx/OTJjMjM4MDhjLzE4/NWVmNTZmLWE2MDEt/NGE1Mi1hNjFlLTBm/OGNiYmFmZTgyZC9T/Y3JlZW5zaG90XzIw/MjUtMDItMTRfYXRf/MTYuNTEuMTgucG5n" width="130" style="height:40px" />
 </picture>
  
   </a>
