@@ -129,16 +129,16 @@
     <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudranil5&layout=compact&theme=default&hide_border=true&langs_count=8" />
   </picture>
 </p>
-
+<!--
 <p align="center">
   <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=rudranil5&theme=tokyonight&hide_border=true" />
 </p>
-
+--
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=rudranil5&theme=tokyonight&hide_border=true"
     alt="Rudranil's GitHub contribution streak"
   />
 </p>
-
+-- >
   Moving Forward...
